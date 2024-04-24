@@ -65,3 +65,14 @@ Q.idea/sonarlint/securityhotspotstore/3/b/3bc81cb6bf6717baa2f57500139e5c0f9c2803
 Q.idea/sonarlint/securityhotspotstore/9/2/92e4ded64aedb870e6b0bbd3808ce54e167972db,2/c/2c9466bc6c09b952273edd6c692f96f2ec73bf76
 
 Q.idea/sonarlint/securityhotspotstore/f/8/f887dc20e71ccd43f801aa278a6818e5a2e4966b,6/5/65dec084aeaf4eaa5b3474c7ea353a0d2da61b48
+>
+app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+7
+gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+w
+G.idea/sonarlint/issuestore/2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4,5/1/516e730a14e71f02fa73f3acd6dc7cea9a9fe002
